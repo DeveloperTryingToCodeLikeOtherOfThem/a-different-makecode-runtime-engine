@@ -1,7 +1,7 @@
 // Add your code here
 //% blockNamespace=pxt
 namespace splitScreen { }
-//% blockNamespace=extensions
+//% blockNamespace=music
 namespace dj {}
 //% blockNamespace=extensions
 namespace shader {}
@@ -21,7 +21,12 @@ namespace story {}
 namespace tileUtil {}
 //% blockNamespace=animation
 namespace characterAnimation {}
-
+//% blockNamespace=scene
+namespace scroller {}
+//% blockNamespace=pxt
+namespace animation {}
+//% blockNamespace=extraConsoleBeta
+namespace makeymakey {}
 
 //% advanced=true
 declare namespace advancedPxt {
@@ -32,3 +37,4 @@ declare namespace advancedPxt {
 
 namespace extensions {}
 
+namespace extraConsoleBeta {}
