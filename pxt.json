@@ -14,7 +14,8 @@
         "tilemap.g.ts",
         "game.ts",
         "music.ts",
-        "tiles.ts"
+        "tiles.ts",
+        "extraStuff.ts"
     ],
     "testFiles": [
         "test.ts"
