@@ -1,12 +1,22 @@
 // Add your code here
-//% blockNamespace=advancedPxt
+//% blockNamespace=pxt
 namespace splitScreen { }
-//% blockNamespace=advancedPxt
+//% blockNamespace=extensions
 namespace dj {}
-//% blockNamespace=advancedPxt
+//% blockNamespace=extensions
 namespace shader {}
-//% blockNamespace=advancedPxt
+//% blockNamespace=pxt
 namespace spriteutil {}
+//% blockNamespace=advancedPxt
+namespace blockObject {}
+//% blockNamespace=extensions
+namespace miniMenu {}
+//% blockNamespace=pxt
+namespace textsprite {}
+//% blockNamespace=extensions
+namespace turtleLogo {}
+//% blockNamespace=extensions
+namespace story {}
 
 //% advanced=true
 declare namespace advancedPxt {
@@ -14,4 +24,6 @@ declare namespace advancedPxt {
     function dmesg(str: string): void
 }
 
+
+namespace extensions {}
 
