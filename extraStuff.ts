@@ -6,7 +6,7 @@ namespace dj {}
 //% blockNamespace=extensions
 namespace shader {}
 //% blockNamespace=pxt
-namespace spriteutil {}
+namespace spriteutils {}
 //% blockNamespace=advancedPxt
 namespace blockObject {}
 //% blockNamespace=extensions
@@ -17,6 +17,11 @@ namespace textsprite {}
 namespace turtleLogo {}
 //% blockNamespace=extensions
 namespace story {}
+//% blockNamespace=tiles
+namespace tileUtil {}
+//% blockNamespace=animation
+namespace characterAnimation {}
+
 
 //% advanced=true
 declare namespace advancedPxt {
