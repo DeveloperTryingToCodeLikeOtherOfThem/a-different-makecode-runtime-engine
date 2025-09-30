@@ -8,9 +8,10 @@ namespace shader {}
 //% blockNamespace=advancedPxt
 namespace spriteutil {}
 
+//% advanced=true
 declare namespace advancedPxt {
-    //% block="dmesg" shim="control::dmesg"
-    function dmesg(): void
+    //% block="dmesg %str" shim="control::dmesg"
+    function dmesg(str: string): void
 }
 
 
