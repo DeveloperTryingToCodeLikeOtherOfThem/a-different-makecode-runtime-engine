@@ -42,5 +42,5 @@ namespace controller {
     //% blockNamespace=pxt
     export namespace Button {}
 }
-//% color="#249CA3" advanced=true
+//% color="#249CA3" weight=100
 declare namespace pxt {}

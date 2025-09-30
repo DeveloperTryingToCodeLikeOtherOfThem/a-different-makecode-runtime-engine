@@ -2,7 +2,8 @@
     "name": "Untitled",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "arcade-keymaps": "github:developertryingtocodelikeotherofthem/arcade-keymaps-disabling-shortcuts#master"
     },
     "files": [
         "main.blocks",

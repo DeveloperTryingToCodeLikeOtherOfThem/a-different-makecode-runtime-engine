@@ -10,7 +10,10 @@ namespace spriteutils {}
 //% blockNamespace=advancedPxt
 namespace blockObject {}
 //% blockNamespace=extensions
-namespace miniMenu {}
+namespace miniMenu {
+    //% blockNamespace=extensions
+    export namespace MenuSprite {}
+}
 //% blockNamespace=pxt
 namespace textsprite {}
 //% blockNamespace=extensions
@@ -25,8 +28,8 @@ namespace characterAnimation {}
 namespace scroller {}
 //% blockNamespace=pxt
 namespace animation {}
-//% blockNamespace=extraConsoleBeta
-namespace makeymakey {}
+//% blockNamespace=keymaps
+namespace MakeyMakey {}
 
 //% advanced=true
 declare namespace advancedPxt {
